@@ -6,7 +6,7 @@
 <body>
 
     <h1>Hello World!</h1>
-    <p>This is my first HTML page.</p>
+    <p>This is my first devops page.</p>
 
     <a href="https://www.google.com">Go to Google</a>
 
